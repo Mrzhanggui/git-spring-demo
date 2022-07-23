@@ -9,6 +9,7 @@ public class GitSpringDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitSpringDemoApplication.class, args);
         System.out.println("33333333");
+        System.out.println("master commit 3");
     }
 
 }
