@@ -10,7 +10,7 @@ public class GitSpringDemoApplication {
         SpringApplication.run(GitSpringDemoApplication.class, args);
         System.out.println("33333333");
         System.out.println("master commit 3");
-        System.out.println("user commit 1");
+        System.out.println("hub commit 1");
     }
 
 }
