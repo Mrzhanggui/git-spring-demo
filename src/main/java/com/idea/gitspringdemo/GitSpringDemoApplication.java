@@ -13,6 +13,7 @@ public class GitSpringDemoApplication {
         System.out.println("hub commit 1");
         System.out.println("master commit 4");
         System.out.println("hub commit 2");
+        System.out.println("hub commit 3");
     }
 
 }
